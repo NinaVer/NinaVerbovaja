@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(182, 186, 194);
   }
@@ -5,17 +6,28 @@ body {
     color:  rgb(52, 4, 65);
   }
   p {
-    color:color:rgb(80, 10, 80);
+    color:rgb(80, 10, 80);
+    float: right;
   }
   
- /* Style all font awesome icons */
+
+
+.footer {
+    position: none;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(252, 253, 153);
+    color: rgb(24, 22, 22);
+    text-align: center;
+     /* Style all font icons */
  .fa {
     padding: 20px;
     font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-    border-radius: 50%;
+    border-radius: 25%;
   }
   
   /* Add a hover effect if you want */
@@ -42,3 +54,4 @@ body {
   background: #007bb5;
   color: white;
 }
+ }
