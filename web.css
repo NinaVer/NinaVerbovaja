@@ -10,18 +10,8 @@ body {
     float: right;
   }
   
-
-
-.footer {
-    position: none;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(252, 253, 153);
-    color: rgb(24, 22, 22);
-    text-align: center;
-     /* Style all font icons */
- .fa {
+   /* Style all font icons */
+  .fa {
     padding: 20px;
     font-size: 30px;
     width: 50px;
@@ -54,4 +44,16 @@ body {
   background: #007bb5;
   color: white;
 }
+
+
+.footer {
+    position: none;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(221, 221, 208);
+    color: rgb(24, 22, 22);
+    text-align: float;
+    
+
  }
