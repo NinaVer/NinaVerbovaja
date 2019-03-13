@@ -38,7 +38,17 @@ body {
   }
 
   iframe{
-    float: center;
+    float: left;
+}
+
+table {
+    box-align: center;
+    width:340;
+    height:255;
+}
+img {
+    width: 150px;
+    height: 150px;
 }
 
 aside{
