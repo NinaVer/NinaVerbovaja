@@ -36,9 +36,19 @@ body {
     font-weight: 100;
     text-align: center;
   }
-  
+
   iframe{
-    float: center;
+    float: left;
+}
+
+table {
+    box-align: center;
+    width:340;
+    height:255;
+}
+img {
+    width: 150px;
+    height: 150px;
 }
 
 aside{
@@ -47,10 +57,7 @@ aside{
     font-weight: 100;
 }
 
-  img
-  {
-      float: right;
-  }
+
 
   .wrapper {
       margin: 0 auto;
@@ -69,12 +76,13 @@ aside{
 
    /* Style all font icons */
   .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    padding: 10px;
+    font-size: 5px;
+    width: 10px;
     text-align: center;
     text-decoration: none;
-    border-radius: 25%;
+    border-radius: 45%;
+
   }
   
   /* Add a hover effect if you want */
@@ -104,16 +112,15 @@ aside{
 
 
 .footer {
-    position: bottom;
-    left: 0;
-    bottom: 0;
     width: 100%;
     background-color: rgb(221, 221, 208);
     color: rgb(24, 22, 22);
     text-align: center;
+    padding: 20px 20px;
     
  }
  .adress {
+    font:garamond;
     padding: 20px;
     font-size: 15px;
     width: 50px;
