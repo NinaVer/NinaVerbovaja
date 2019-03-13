@@ -36,7 +36,7 @@ body {
     font-weight: 100;
     text-align: center;
   }
-  
+
   iframe{
     float: center;
 }
@@ -69,12 +69,13 @@ aside{
 
    /* Style all font icons */
   .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    padding: 10px;
+    font-size: 5px;
+    width: 10px;
     text-align: center;
     text-decoration: none;
-    border-radius: 25%;
+    border-radius: 45%;
+    float:center;
   }
   
   /* Add a hover effect if you want */
